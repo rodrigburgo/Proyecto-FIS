@@ -5,8 +5,8 @@ dashboard con filtros, alertas de reincidencia, reportes (Excel/PDF/CSV), audito
 
 ## Ejecutar
 ```bash
-pip install -r requirements.txt
-streamlit run app.py
+py -m pip install -r requirements.txt
+py -m streamlit run app.py
 ```
 Abre http://localhost:8501. Usuarios iniciales (**cámbialos** en *Cambiar contraseña*):
 
