@@ -1,0 +1,9 @@
+streamlit>=1.50
+pandas>=2.2
+numpy>=1.26
+plotly>=5.24
+sqlalchemy>=2.0
+openpyxl>=3.1
+reportlab>=4.0
+# Solo si usas PostgreSQL en produccion:
+# psycopg2-binary>=2.9
